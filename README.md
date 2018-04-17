@@ -6,3 +6,5 @@ List:
 * 4 git add .
 * 5 git commit -m "made some changes"
 * 6 git push
+    * if upstream is not setup:
+        * git push --set-upstream origin master 
